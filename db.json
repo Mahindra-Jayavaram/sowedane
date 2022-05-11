@@ -1,0 +1,19 @@
+{
+  "signup": [
+    {
+      "name": "mahindra",
+      "email": "mahindrajayavaram@gmail.com",
+      "password": "1234",
+      "mblNo": "6301678590",
+      "id": 1
+    },
+    {
+      "name": "mahindra",
+      "email": "mahindrajayavaram@gmail.com",
+      "password": "1234",
+      "mblNo": "12345676",
+      "id": 2
+    }
+  ],
+  "login" :[]
+}
